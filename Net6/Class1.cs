@@ -8,6 +8,6 @@ namespace Net6
 {
     internal class Class1
     {
-
+        // баг был сдесь
     }
 }
