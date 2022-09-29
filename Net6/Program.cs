@@ -34,9 +34,6 @@ switch (Console.ReadLine())
     case "d":
         Console.WriteLine($"Вывод: {num1} * {num2} = " + (num1 * num2));
         break;
-    default:
-        Console.WriteLine("Данноe значение не поддерживается Code: 0");       
-        break;
     //добавим условие если будем выполнять упражнения с 0
     case "f":
         while ( num2 == 0)
