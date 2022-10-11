@@ -9,5 +9,6 @@ namespace Net6
     internal class Class1
     {
         public int number
+            //  fix
     }
 }
